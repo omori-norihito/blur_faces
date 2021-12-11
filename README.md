@@ -14,7 +14,7 @@
 Ubuntu 20.4LTS Python 3.7 で動作確認
 
 ```
-$ pip install -r requerements.txt
+$ pip install -r requirements.txt
 ```
 
 ## 使いかた
